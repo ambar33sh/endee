@@ -1,0 +1,17 @@
+# NutriAI - AI Meal Planner using Endee Vector Database
+# Install with: pip install -r requirements.txt
+
+# Endee Python SDK
+endee>=0.1.0
+
+# Embeddings
+sentence-transformers>=2.7.0
+
+# Google Gemini
+google-generativeai>=0.7.0
+
+# UI
+streamlit>=1.35.0
+
+# Utilities
+python-dotenv>=1.0.0
